@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/qasim-mern-dev">
-    <img src="/images/qasim-mern-stack-dev.png" alt="Qasim Ali – MERN Stack Developer" />
+    <img src="images/qasim-mern-stack-dev.png" alt="Qasim Ali – MERN Stack Developer" />
 
   </a>
 </p>
