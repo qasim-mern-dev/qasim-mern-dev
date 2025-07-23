@@ -58,7 +58,7 @@ Check out my top projects:
 
 🌍 **Let's Connect**
 
-- 💼 [Portfolio Website](https://chqasim.,e)
+- 💼 [Portfolio Website](https://chqasim.me)
 - 🔗 [LinkedIn](https://linkedin.com/in/qasim-mern-dev)
 - 📬 Email: iamchqasimali@gmail.com
 
