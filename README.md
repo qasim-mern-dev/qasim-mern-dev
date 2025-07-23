@@ -2,8 +2,6 @@
 <h3 align="center">🚀 MERN Stack Developer | React.js Specialist | Freelance Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/qasim-mern-dev">
-   <img src="images/qasim-mern-dev.png" alt="Qasim Ali – MERN Stack Developer" width="400" height="400" />
 
   </a>
 </p>
